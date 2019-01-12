@@ -5,6 +5,8 @@
 
    I add the first addition.
    This is the exercise of renewing the pushed article.
+   
+   This addition is for the branch testing.
 
 
 
