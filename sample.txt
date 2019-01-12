@@ -1,0 +1,9 @@
+  This is the first trial of git practice.
+   Only alphabet is OK.  Kanji and Kana leads errore.
+   2019 jan Sat
+   By Akira Nakamura
+
+
+
+
+
